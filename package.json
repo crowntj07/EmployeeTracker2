@@ -1,0 +1,26 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Todd Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crowntj07/employeetracker"
+  },
+  "homepage": "https://github.com/crowntj07/employeetracker",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "init": "^0.1.2",
+    "inquirer": "^7.3.3",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {}
+}
